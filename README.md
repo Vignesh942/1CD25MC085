@@ -43,6 +43,15 @@ src/
 
 ---
 
+## DEMO 
+
+<img width="1272" height="767" alt="image" src="https://github.com/user-attachments/assets/554b05e5-2bc6-40ba-a9f3-5dd4d8eab9e9" />
+
+<img width="1757" height="588" alt="image" src="https://github.com/user-attachments/assets/f8342c99-e370-4360-a8c0-2be77dc83a00" />
+
+<img width="872" height="663" alt="image" src="https://github.com/user-attachments/assets/b2af50a9-7855-4778-9a30-b22f3a97790e" />
+
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
@@ -73,14 +82,8 @@ Request payload
 API response
 Execution time
 Error handling
-📸 Output
+\
 
-
-<img width="1272" height="767" alt="image" src="https://github.com/user-attachments/assets/554b05e5-2bc6-40ba-a9f3-5dd4d8eab9e9" />
-
-<img width="1757" height="588" alt="image" src="https://github.com/user-attachments/assets/f8342c99-e370-4360-a8c0-2be77dc83a00" />
-
-<img width="872" height="663" alt="image" src="https://github.com/user-attachments/assets/b2af50a9-7855-4778-9a30-b22f3a97790e" />
 
 
 The application displays notifications in a clean card-based UI grouped by:
